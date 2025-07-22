@@ -30,7 +30,7 @@ No exemplo abaixo, usei um texto pessoal explicando minha experiência com o cur
 
 #### Resultado da Análise de Sentimentos:
 
-![Resultado da Análise](./textofala.png)
+![Resultado da Análise](./textofalaAzure.png)
 
 ---
 
