@@ -36,6 +36,3 @@ No exemplo abaixo, usei um texto pessoal explicando minha experiência com o cur
 
 > A análise retornou um **sentimento positivo com 96% de confiança**, mostrando que o texto transmite uma opinião bastante positiva sobre a experiência com os estudos e a plataforma Azure.
 
----
-
-Se quiser, posso adaptar esse conteúdo para inglês ou gerar um modelo mais completo com tópicos adicionais (como links, badges e outros recursos do GitHub). Deseja isso também?
