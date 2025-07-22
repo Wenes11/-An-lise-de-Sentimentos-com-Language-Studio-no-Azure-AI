@@ -1,0 +1,33 @@
+## Sobre oque é uma Ia
+
+1- Oque uma ia generativa ?
+
+É inteligência artificial feita para deixa ela mais humanizada, feita para imitar
+comportamento mais humano, um exemplo é o chatGtp. Gera uma linguagem natural, código e
+imagem.
+
+2- Oque é importante?
+
+Digo que entender como funciona o comportamento da inteligência artificial, e também
+saber o como usar e quando utilizar, não ser total dependente dela. Ia é um caminho
+para automatizar suas tarefas, é uma ferramenta de auxilio quanto para estudos, tanto
+para trabalho.
+
+## Modelos de linguagem grandes
+
+Nesse tópico é importante saber interpretar texto, fazer comparação de um texto
+a outro, identificar se sentimento, a linguagem do texto e o seu idioma natural.
+
+Necessário saber a resumir texto e identificar padrões, para realizar comparações.
+
+## Transformador
+
+transformador é uma arquitetura de rede neural que se tornou fundamental para o processamento de linguagem natural, incluindo a geração de texto e outras tarefas complexas. Ele se destaca por sua capacidade de entender o contexto e as relações entre palavras em uma sequência, permitindo que o modelo "compreenda" a linguagem humana de maneira mais eficaz
+
+Divido em dois blocos:
+
+Bloco codificador: que cria representações semânticas do vocabulário de treinamento, cria
+a entrada, seja texto, ou código.
+ Bloco decodificador: Gera novas sequências de uma linguagem, ele serve
+para gerar uma consequência premeditada com base na probabilidade, ou seja, se falo "Bom", é mais provável que minha próxima palavra seja "Dia", tornando uma sugestão de "Bom dia".
+ 
