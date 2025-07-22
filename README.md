@@ -26,7 +26,7 @@ No exemplo abaixo, usei um texto pessoal explicando minha experiência com o cur
 
 #### Entrada no Language Studio:
 
-![Entrada no Language Studio](.language azure.png)
+![Entrada no Language Studio](.LanguageAzure.png)
 
 #### Resultado da Análise de Sentimentos:
 
